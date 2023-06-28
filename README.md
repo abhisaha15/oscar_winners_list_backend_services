@@ -17,11 +17,11 @@ The Academy Awards, also known as the Oscars, is an annual awards ceremony honor
 
 ### Scenario-2:
 
-![Screenshot](api_testing_screenshot_2.png)
+![Screenshot](api_testing_screenshot_2.gif)
 
 ### Scenario-3:
 
-![Screenshot](api_testing_screenshot_3.png)
+![Screenshot](api_testing_screenshot_3.gif)
 
 <hr>
 
