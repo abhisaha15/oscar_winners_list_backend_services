@@ -13,7 +13,7 @@ The Academy Awards, also known as the Oscars, is an annual awards ceremony honor
 
 ### Scenario-1:
 
-![Screenshot](api_testing_screenshot_1.png)
+![Screenshot](api_testing_screenshot_1.gif)
 
 ### Scenario-2:
 
