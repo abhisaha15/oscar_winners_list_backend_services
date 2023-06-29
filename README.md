@@ -26,7 +26,7 @@ The Academy Awards, also known as the Oscars, is an annual awards ceremony honor
 <hr>
 
 Oscar Awards from 1929-2023 are available in this database and changes in category throughout this time frame are also stored.
-
+Movies-based awards are only stored in database
 
 
 
