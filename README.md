@@ -7,7 +7,7 @@ This is a restful service for the "Oscar Winner List" project.
 ## A bit about OSCAR
 The Academy Awards, also known as the Oscars, is an annual awards ceremony honoring outstanding creative and technical achievements in the film industry. The awards are presented by the Academy of Motion Picture Arts and Sciences, and winners are selected by the Academy's voting membership. The various category winners are awarded a copy of a golden statuette, officially called the "Academy Award of Merit," but more commonly referred to by its nickname, the "Oscar".
 
-## Data sourced: https://github.com/abhisaha15/pre-built-database-tables-MySql
+## Data sourced: https://github.com/abhisaha15/pre-built-database-tables-MySql/blob/main/oscar_data.sql
 
 ## How It Works:
 
